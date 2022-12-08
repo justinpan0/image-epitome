@@ -1,0 +1,5 @@
+{
+    "clang-tidy.checks": [
+        "modernize-*,clang-analyzer-*,-clang-analyzer-cplusplus*"
+    ]
+}
